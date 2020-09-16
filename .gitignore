@@ -1,16 +1,9 @@
-# Prerequisites
-*.d
-
+# ---> C
 # Object files
 *.o
 *.ko
 *.obj
 *.elf
-
-# Linker output
-*.ilk
-*.map
-*.exp
 
 # Precompiled Headers
 *.gch
@@ -34,19 +27,18 @@
 *.app
 *.i*86
 *.x86_64
-*.hex
 
 # Debug files
 *.dSYM/
-*.su
-*.idb
-*.pdb
 
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
+*.crf
+*.d
+*.ZX
+*.Yarnell-PC-MI
+*.axf
+*.map
+*.htm
+*.SK
+*.uploading.cfg
+*.uvguix.*
+*.TMP
